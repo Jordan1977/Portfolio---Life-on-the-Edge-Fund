@@ -1,8 +1,3 @@
-# Life on the Hedge Fund
-
-**Institutional Portfolio Analytics Terminal**  
-Trinity College Dublin · Investment Analysis · Academic Portfolio
-
 > Live dashboard: [jordan1977.github.io/life-on-the-hedge-fund-dashboard](https://jordan1977.github.io/life-on-the-hedge-fund-dashboard/)
 
 ---
